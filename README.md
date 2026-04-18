@@ -33,30 +33,8 @@ Input sequences are created using n-gram patterns. Example:
 
 ```text
 good morning how are you
-````md
-# Next Word Prediction using Deep Learning
 
-## Project Overview
-
-This project is a **Next Word Prediction System** built using **TensorFlow / Keras** and **Natural Language Processing (NLP)** techniques. The model is trained on textual data to learn sentence patterns and predict the most likely next word based on a given input sequence.
-
-The goal of this project is to understand how **Recurrent Neural Networks (RNNs)**, especially **LSTM (Long Short-Term Memory)** networks, can be used for language modeling and text generation tasks.
-
----
-
-## Technologies Used
-
-- Python  
-- NumPy  
-- TensorFlow / Keras  
-- NLP Tokenization  
-- LSTM Neural Networks  
-- Bidirectional LSTM  
-- GitHub for Version Control  
-
----
-
-Generated sequences:
+### Generated sequences:
 
 ```text
 good morning
